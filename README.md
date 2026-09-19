@@ -1,5 +1,5 @@
 # pia_capaIntermedia
 
 Integrantes
-Evelyn Guadalupe Rodriguez Hernandez 
-Silvia Melissa Rojas Ochoa
+Evelyn Guadalupe Rodriguez Hernandez 2058518
+Silvia Melissa Rojas Ochoa 2012628
